@@ -1,0 +1,25 @@
+{
+  "name": "koa-html-minifier2",
+  "description": "minify HTML responses like some crazy guy",
+  "version": "1.0.4",
+  "author": {
+    "name": "zhuweiyou",
+    "email": "i@zhuweiyou.com"
+  },
+  "license": "MIT",
+  "repository": "zhuweiyou/koa-html-minifier2",
+  "dependencies": {
+    "html-minifier": "^3.5.5"
+  },
+  "devDependencies": {
+    "istanbul-harmony": "^0.3.16",
+    "koa": "^2.3.0",
+    "mocha": "^3.5.3",
+    "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "test-cov": "node ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha",
+    "test-travis": "node ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly --"
+  }
+}
