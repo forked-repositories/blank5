@@ -1,7 +1,8 @@
 # Koa HTML Minifier 2
 
-[![Build Status](https://travis-ci.org/zhuweiyou/koa-html-minifier2.svg?branch=master)](https://travis-ci.org/zhuweiyou/koa-html-minifier2)
 [![npm version](https://img.shields.io/npm/v/koa-html-minifier2.svg)](https://www.npmjs.com/package/koa-html-minifier2)
+[![Build Status](https://travis-ci.org/zhuweiyou/koa-html-minifier2.svg?branch=master)](https://travis-ci.org/zhuweiyou/koa-html-minifier2)
+[![Coverage Status](https://coveralls.io/repos/github/zhuweiyou/koa-html-minifier2/badge.svg?branch=master)](https://coveralls.io/github/zhuweiyou/koa-html-minifier2?branch=master)
 
 **It is the like as [koajs/html-minifier](https://github.com/koajs/html-minifier), and supports `koa 2.x`.**
 
