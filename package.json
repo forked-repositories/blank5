@@ -1,7 +1,7 @@
 {
   "name": "koa-html-minifier2",
   "description": "minify HTML responses like some crazy guy",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": {
     "name": "zhuweiyou",
     "email": "i@zhuweiyou.com"
