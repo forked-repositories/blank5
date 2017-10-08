@@ -1,7 +1,7 @@
 {
   "name": "koa-html-minifier2",
   "description": "minify HTML responses like some crazy guy",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": {
     "name": "zhuweiyou",
     "email": "i@zhuweiyou.com"
@@ -9,10 +9,10 @@
   "license": "MIT",
   "repository": "zhuweiyou/koa-html-minifier2",
   "dependencies": {
-    "coveralls": "^2.13.1",
     "html-minifier": "^3.5.5"
   },
   "devDependencies": {
+    "coveralls": "^2.13.3",
     "istanbul-harmony": "^0.3.16",
     "koa": "^2.3.0",
     "mocha": "^3.5.3",
