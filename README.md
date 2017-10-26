@@ -24,9 +24,9 @@ npm i --save koa-html-minifier2
 const htmlMinifier2 = require('koa-html-minifier2')
 
 app.use(htmlMinifier2({
-    collapseWhitespace: true,
-    minifyCSS: true,
-    minifyJS: true
+  collapseWhitespace: true,
+  minifyCSS: true,
+  minifyJS: true
 }))
 ```
 
